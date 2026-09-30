@@ -83,6 +83,7 @@ A premium, full-stack real-time chat application inspired by modern communicatio
 - **JWT in Cookies**: Tokens are stored in HttpOnly cookies to prevent client-side JS access.
 - **Optimistic Updates**: Built to feel fast by managing state locally before server confirmation.
 - **Auto-Scroll & UX**: Specialized `useRef` logic for smooth message anchoring.
+- **Security Policy**: Refer to [SECURITY.md](SECURITY.md) for vulnerability disclosure policies.
 
 ---
 *Developed with a focus on code quality and performance.*
